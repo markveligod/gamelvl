@@ -35,7 +35,8 @@ To complete the level, you must find all_ **keywords** _in the grid._
   
 Версия 1.0  
 ```
-- Добавлено 3 уровня игры.  
+- Добавлено 3 уровня игры.
+- Makefile написан под операционную систему Windows
 ```
   
   
@@ -44,6 +45,7 @@ To complete the level, you must find all_ **keywords** _in the grid._
 Version 1.0  
 ```
 - Added 3 levels of the game.  
+- Makefile is written for the Windows operating system
 ```
   
   
