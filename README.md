@@ -9,7 +9,7 @@ _GAME LVL is a simple console game with finding words in the grid provided.
 To win, you need to find all the keywords in the grid._
 
 ## 2. Gameplay  
-![alt text](https://s297iva.storage.yandex.net/rdisk/37af134d6cd44042137cd1644b9bfefbba47c30855bcb4dce03c31b57653ab26/5e83a260/6GEfPPB5TxaxBhFkj-GPLuk5qzr4RWTHgfYJGY1hJRwvETJyJKk1W7NyZTgO3evi0nUe4azlgLOHaXcE_wFlXg==?uid=316309876&filename=1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=316309876&fsize=5142&hid=41587e05fc1c8e5b07a79e1d1742c065&media_type=image&tknv=v2&etag=787e00d6b26ef1f27b209c80bc89416f&rtoken=yNj9bGZhNo4r&force_default=yes&ycrid=na-f8fa077e225c07b4ad7ed29fe6343568-downloader23e&ts=5a22c14655800&s=ca7d8d7938ec1608d3dcdbc4b8ed97e9b70876308c47ab861cb83a7d1e2c5c43&pb=U2FsdGVkX1-HXkq7nyaVL7E5lCvnNEMxpTTVzOVaOMvqfNkeildEVKrZP-pm8Zuvv2DEtiy6u2ZKpr_ZRecWK86TYEDacABo9fRBYU0z7gY)  
+![](https://s116myt.storage.yandex.net/rdisk/d55d779349237764aec8274403c48f0d8a2d8e2fb939fc578f2a8dce9e3aeb81/5e8c4855/6GEfPPB5TxaxBhFkj-GPLuk5qzr4RWTHgfYJGY1hJRwvETJyJKk1W7NyZTgO3evi0nUe4azlgLOHaXcE_wFlXg==?uid=316309876&filename=1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=316309876&fsize=5142&media_type=image&hid=41587e05fc1c8e5b07a79e1d1742c065&etag=787e00d6b26ef1f27b209c80bc89416f&rtoken=AFINeXNah4p4&force_default=yes&ycrid=na-d1632943e956a98570377aecda612e96-downloader2e&ts=5a2b00aa3bd00&s=933c2c46d5231cf34feeb37fc9dbb3e45345a5769265ee867e486a2db68b2776&pb=U2FsdGVkX19FunzFeVHLneHi8VKSXXBhDoNiVjKJSd29LPuFRbbHh7SQvVSJOxWK3FVq1eLpCdgUqTYSKv7Wi62BBIWM1e4MhiRlCaFMuXA)  
   
 :ru:  
 _Главное меню состоит из уровней и команды выход._  
@@ -19,7 +19,7 @@ _Для того чтобы начать игру необходимо ввес�
 _The main menu consists of levels and the exit command._
 _To start the game, enter the corresponding item number (1,2,3) or enter 0 to complete the program._  
 
-![alt text](https://s207iva.storage.yandex.net/rdisk/943bb77d02b135f66f2134b4083e116686f26c752f6189da2ee78e675d753832/5e83a644/6GEfPPB5TxaxBhFkj-GPLgYv0kNms2ePokah9LAbCh0MjAFRIw8W-euLIsz2xa5hAKOlBicf-mFDavs0CuJqyw==?uid=316309876&filename=2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=316309876&fsize=5633&hid=58d12b18f68dc9c85673eff7e22c5e07&media_type=image&tknv=v2&etag=feffe4f573e3db8707fef756134a8fbf&rtoken=qLYhwh9mXZWZ&force_default=yes&ycrid=na-d08d1c3bae111a8bfa2ab62ead8d22f5-downloader14e&ts=5a22c4fc31900&s=42183af7e18265b2dad9beaa19a342b9577af8005d9a76430c4be0e589fea1f9&pb=U2FsdGVkX1-Uo31-IdYUmTV3JOhsPYkVpVbAkEBp3FFVMsPZC7Vdez3kTwL-Z38SQ2qRVOgZZ9knuXbJbWmh77G5vM6Av9vh4X9-1lJPLSE) 
+![](https://s207iva.storage.yandex.net/rdisk/6d94c92cc617d268a7a9ce2c09f19558d0ff5e25281725ac2d918f54086e065a/5e8c4876/6GEfPPB5TxaxBhFkj-GPLgYv0kNms2ePokah9LAbCh0MjAFRIw8W-euLIsz2xa5hAKOlBicf-mFDavs0CuJqyw==?uid=316309876&filename=2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=316309876&etag=feffe4f573e3db8707fef756134a8fbf&fsize=5633&hid=58d12b18f68dc9c85673eff7e22c5e07&media_type=image&rtoken=OluizM0BxWGI&force_default=yes&ycrid=na-9763df97a0b3cd32d1cfcf4d7c3d2dc9-downloader2e&ts=5a2b00c9b4740&s=07ee9c3cb8fce38429be332b8b069121937de95d0f1a35fbc9cb04c10779a7e4&pb=U2FsdGVkX19VF8O5LDKag2QkRnVzXlZ0Hj8wJBHO8fDp1_Z0RLPuxyaUwf9MskSzA5cEqad_FCj5dK60ju9x4l0uf455HSoKtvPRciAXqCA) 
   
 :ru:  
 _Каждый уровень состоит из ключевых слов в сетке.  
