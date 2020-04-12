@@ -15,16 +15,7 @@ _To start the game, enter the corresponding item number (1,2,3) or enter 0 to co
 _Each level consists of keywords in the grid.  
 To complete the level, you must find all_ **keywords** _in the grid._  
   
-## 3. Changelog
-  
-Version 1.0  
-```
-- Added 3 levels of the game.  
-- Makefile is written for the Windows operating system
-```
-  
-  
-## Other  
+## 3. Other  
   
 Author - _Mark Veligod_  
 School21 - _ckakuna_
