@@ -18,4 +18,3 @@ To complete the level, you must find all_ **keywords** _in the grid._
 ## 3. Other  
   
 Author - _Mark Veligod_  
-School21 - _ckakuna_
